@@ -1,6 +1,4 @@
-import React from 'react'
 import { RiRadarFill } from 'react-icons/ri'
-import { Button } from "@/components/ui/button"
 
 const Header = () => {
   return (
